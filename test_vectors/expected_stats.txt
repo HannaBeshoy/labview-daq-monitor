@@ -1,0 +1,4 @@
+valid_lines	300
+min	22.30
+max	30.90
+mean	26.467

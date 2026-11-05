@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+labview/*.aliases
+labview/*.lvlps
+data.txt

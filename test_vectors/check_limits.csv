@@ -1,0 +1,11 @@
+x;state   (low 18, high 28, hysteresis 0.5)
+25;OK
+28.1;HIGH
+27.8;HIGH
+27.6;HIGH
+27.4;OK
+17.9;LOW
+18.2;LOW
+18.6;OK
+29;HIGH
+27.0;OK
